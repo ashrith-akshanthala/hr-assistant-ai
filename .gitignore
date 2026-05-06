@@ -35,3 +35,6 @@ coverage.xml
 dist/
 build/
 *.egg-info/
+
+# Local Files
+local_files
